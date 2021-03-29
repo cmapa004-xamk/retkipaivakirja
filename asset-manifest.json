@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "./static/js/main.04877ec3.chunk.js",
+    "main.js.map": "./static/js/main.04877ec3.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.e6c06b26.js",
+    "runtime-main.js.map": "./static/js/runtime-main.e6c06b26.js.map",
+    "static/css/2.267e9e5a.chunk.css": "./static/css/2.267e9e5a.chunk.css",
+    "static/js/2.1cb29c0b.chunk.js": "./static/js/2.1cb29c0b.chunk.js",
+    "static/js/2.1cb29c0b.chunk.js.map": "./static/js/2.1cb29c0b.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.267e9e5a.chunk.css.map": "./static/css/2.267e9e5a.chunk.css.map",
+    "static/js/2.1cb29c0b.chunk.js.LICENSE.txt": "./static/js/2.1cb29c0b.chunk.js.LICENSE.txt",
+    "static/media/karitunturi.a862a215.jpg": "./static/media/karitunturi.a862a215.jpg",
+    "static/media/leivonmaki.4e9df2fe.jpg": "./static/media/leivonmaki.4e9df2fe.jpg",
+    "static/media/lemmenjoki.762c5c93.jpg": "./static/media/lemmenjoki.762c5c93.jpg",
+    "static/media/liesjarvi.fd59967e.jpg": "./static/media/liesjarvi.fd59967e.jpg",
+    "static/media/martimoaapa.b8e01c3d.jpg": "./static/media/martimoaapa.b8e01c3d.jpg",
+    "static/media/pienikarhu.3f92d28e.jpg": "./static/media/pienikarhu.3f92d28e.jpg",
+    "static/media/repovesi.ca949503.jpg": "./static/media/repovesi.ca949503.jpg",
+    "static/media/riisitunturi.16fd9a62.jpg": "./static/media/riisitunturi.16fd9a62.jpg",
+    "static/media/index.css": "./static/media/roboto-vietnamese-400-normal.52cebac0.woff2",
+    "static/media/salamajarvi.bb9fb512.jpg": "./static/media/salamajarvi.bb9fb512.jpg",
+    "static/media/syote.0294fd9b.jpg": "./static/media/syote.0294fd9b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6c06b26.js",
+    "static/css/2.267e9e5a.chunk.css",
+    "static/js/2.1cb29c0b.chunk.js",
+    "static/js/main.04877ec3.chunk.js"
+  ]
+}
